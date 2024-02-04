@@ -1,0 +1,84 @@
+1.Ctor nedir
+  funksiya
+  metod
+  deyisen
+  obj yaradir
+  obj yaradir
+
+2.Member nedir
+  deyisen
+  funsiya
+  ctor
+  Field ve metod
+  Field ve metod
+
+3.iterator nedir
+  funsiya
+  deyisen
+  medod
+  class
+  class
+
+4.lambda nedir
+  oyun
+  frend class
+  virtual metod
+  anonim funsiya
+  anonim funsiya
+
+5.Oop nece esas prinsibi ozunde birlesdirir
+  bir
+  bes
+  sekkiz
+  dord
+  dord
+
+6.defoult Ctor silmeyin nece novu var
+  iki
+  uc
+  yeddi
+  yoxdur
+  uc
+
+7.class daxilinde obyekti gosteren keyword nedir
+  member
+  field
+  this
+  ptr
+  this
+
+8.class'ler arasi Relations nece novu var
+  yeddi
+  dokkuz
+  bes
+  uc
+  uc
+
+9.friend etmeyin nece novu var
+  iki
+  uc
+  dord
+  yeddi
+  uc
+
+10.Override ne ucun isdifade olunur
+  ustunluk verir
+  funksiyadi
+  field'dir
+  deyisendi
+  ustunluk verir
+
+11.copy ctor nece novu var
+  dort
+  dokkuz
+  yoxdur
+  iki
+  iki
+
+12.class defould olaraq access modifier nedir
+  protected
+  private
+  yoxdur
+  public
+  private
+
